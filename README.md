@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ajeet
+# Hi there 👋, I'm Ajeet
 I am currently learning Python to get into Data Science and Machine Learning. The goal is to get a job in this domain in the next 3 months 🚀 
 
 ### Subscribe to my Blog 👨‍💻 
